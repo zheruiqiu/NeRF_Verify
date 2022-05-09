@@ -8,11 +8,11 @@
 创建 conda 环境
 
 ```bash
+cd Use_of_PE
 conda env create -f environment.yml
 ```
 运行代码
 ```bash
-cd Use_of_PE
 python PE_pl.py
 ```
 
